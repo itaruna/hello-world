@@ -1,4 +1,6 @@
 # hello-world
-Learning to code and use GitHub
-
-Hi! I'm Athena and I have no idea what I'm doing right now.
+- 👋 Hi, I’m @itaruna (Athena) and I'm a student at Duke University.
+- 👀 I’m interested in healthcare tech, AR/VR, and design
+- 🌱 I’m currently learning Unity, C#, and Maya
+- 💞️ I’m looking to collaborate on cool projects in the healthcare, gaming, and social impact spaces!
+- 📫 Send me a message at athena.yao@duke.edu
